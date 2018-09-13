@@ -19,7 +19,7 @@
 <!-- doc-templite END generated -->
 
 - [x] [problem.zh.md](problem.zh.md)
-- [ ] [***.zh.md](***.zh.md)
+- [x] [applications.zh.md](applications.zh.md)
 - [ ] [***.zh.md](***.zh.md)
 - [ ] [***.zh.md](***.zh.md)
 - [ ] [***.zh.md](***.zh.md)
